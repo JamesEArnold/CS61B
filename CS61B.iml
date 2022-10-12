@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/skeleton-fa22/hw2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/skeleton-fa22/lab01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/skeleton-fa22/lab02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/skeleton-fa22/lab03" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/skeleton-fa22/lab07" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/skeleton-fa22/lab08" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/skeleton-fa22/proj0" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/skeleton-fa22/proj1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/skeleton-fa22/proj2a" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="library-fa22" level="project" />
+  </component>
+</module>
